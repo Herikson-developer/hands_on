@@ -1,0 +1,5 @@
+print ("Hola Mundo!")
+print(1+1)
+print (8*6)
+print("Hola")
+print ("mundo!")
